@@ -1,0 +1,37 @@
+CONFERENCE PAPER - FULL MARK
+CUSTOMIZED CONVOLUTIONAL NEURAL NETWORK MODEL FOR IOT BOTNET ATTACK DETECTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCING REINFORCEMENT WITH CNN(NOVELTY):
+1. Detecting the botnet attacks using CNN Model
+2. continuously trying to adapt the cnn model based on the feedback using RL(benefits: dynamically adapt to parameters and strategies to improve accuracy)
+3. optimization of decision by choosing which feature as more importance(benefit: model's effectiveness)
+4. giving +v reward for each positive reinforcement/detection and -v reward for each negative reinforcement/detection(benefit: learns and refines the detection mechanism)
+5. automatically adjusting the model hyperparameter based on the environment without any manual involvement/interventions)
+6. continuous improvement by learning new patterns and using them in next iterations.
+
+REFERENCES LINKS::
+https://link.springer.com/chapter/10.1007/978-3-030-63007-2_36
+https://link.springer.com/article/10.1007/s11760-024-03248-4
+https://link.springer.com/article/10.1007/s11760-024-03248-4
+https://link.springer.com/chapter/10.1007/978-3-030-63007-2_36
+https://link.springer.com/article/10.1007/s11760-024-03248-4
